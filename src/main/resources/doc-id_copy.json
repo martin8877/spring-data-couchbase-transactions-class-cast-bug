@@ -1,0 +1,17 @@
+{
+  "_class": "com.example.Menu",
+  "categories": [
+    {
+      "id": "category_1",
+      "products": [
+        {
+          "id": "product_1"
+        },
+        {
+          "id": "product_2"
+        }
+      ]
+    }
+  ],
+  "name": "Menu 1"
+}
